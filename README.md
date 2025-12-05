@@ -54,18 +54,6 @@ Interests: [Web Development, Backend APIs, Database Design]
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ketangathibandhe&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Ketan's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketangathibandhe&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ketangathibandhe&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
 
 ---
 
