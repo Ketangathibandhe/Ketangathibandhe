@@ -73,6 +73,6 @@ Interests: [Web Development, Backend APIs, Database Design]
 <div align="center">
   
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Lets!%20Connect&fontSize=50&section=footer&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Lets%20Connect!&fontSize=50&section=footer&fontColor=ffffff"/>
   
 </div>
