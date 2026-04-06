@@ -27,16 +27,16 @@ Interests: [Web Development, Backend APIs, Database Design]
 
 <br clear="right"/>
 
-## 🚀 What I'm Up To
+##  What I'm Up To
 
-- 🔭 Building full-stack applications with **MERN**
-- 🌱 Mastering **React** and **Node.js** ecosystems
-- 💡 Learning **PostgreSQL** and database optimization
-- 🎯 Creating scalable REST APIs
+-  Building full-stack applications with **MERN**
+-  Mastering **React** and **Node.js** ecosystems
+-  Learning **PostgreSQL** and database optimization
+-  Creating scalable REST APIs
 
 ---
 
-## 🛠️ Tech Arsenal
+##  Tech Arsenal
 
 <div align="center">
 
@@ -57,7 +57,7 @@ Interests: [Web Development, Backend APIs, Database Design]
 
 ---
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <div align="center">
   <picture>
